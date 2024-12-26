@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishgouda06022004" alt="harishgouda06022004" /></a> </p>
 
+- 🔭 I’m currently working on **full-stack-ecommerce**
+
+- 📝 I regularly write articles on [https://medium.com/@harishgouda216](https://medium.com/@harishgouda216)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -25,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishgouda06022004&show_icons=true&locale=en&layout=compact" alt="harishgouda06022004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishgouda06022004&show_icons=true&locale=en" alt="harishgouda06022004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishgouda06022004&" alt="harishgouda06022004" /></p>
