@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harishgouda G Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishgouda06022004&label=Profile%20views-200&color=0e75b6&style=flat" alt="harishgouda06022004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harishgouda06022004&label=Profile%20views&color=0e75b6&style=flat" alt="harishgouda06022004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishgouda06022004" alt="harishgouda06022004" /></a> </p>
 
@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishgouda06022004&show_icons=true&locale=en&layout=compact" alt="harishgouda06022004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishgouda06022004&show_icons=true&locale=en" alt="harishgouda06022004" /></p>
-
