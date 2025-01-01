@@ -31,8 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishgouda06022004&show_icons=true&locale=en" alt="harishgouda06022004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishgouda06022004&" alt="harishgouda06022004" /></p>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 About Me
 "I’m always learning and pushing myself to build better and more efficient solutions. I believe in the power of clean, maintainable code, and I enjoy working on both frontend and backend technologies to create full-stack applications that deliver value."
