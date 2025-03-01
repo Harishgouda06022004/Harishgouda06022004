@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **full-stack-ecommerce**
 
 - 📝 I regularly write articles on [https://medium.com/@harishgouda216](https://medium.com/@harishgouda216)
+- 📝 I regularly solve problems on [https://leetcode.com/u/Harishgouda/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
